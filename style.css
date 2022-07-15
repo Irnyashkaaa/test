@@ -253,6 +253,7 @@ body {
     margin-right: -200px;
     align-items: center;
     margin-bottom: 108px;
+    z-index: 1;
 }
 
 @media (max-width: 1100px) {
