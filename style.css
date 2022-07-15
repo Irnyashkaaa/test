@@ -142,6 +142,7 @@ body {
     background: rgba(103, 174, 252, 0.95);
     transform: translateX(-103%);
     transition: transform 0.5s;
+    z-index: 10
 }
 
 .menu.active {
